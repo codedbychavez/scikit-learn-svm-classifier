@@ -336,7 +336,6 @@
     "intent": "greeting",
     "text": "Greetings! How can I make your day brighter?"
   },
-
   {
     "intent": "business_hours",
     "text": "Could you let me know when you'll be open tomorrow?"
@@ -736,5 +735,245 @@
   {
     "intent": "business_hours",
     "text": "Can you provide me with your Friday hours?"
+  },
+  {
+    "intent": "payment_methods",
+    "text": "What payment options do you accept?"
+  },
+  {
+    "intent": "payment_methods",
+    "text": "Can you tell me how I can pay for your products/services?"
+  },
+  {
+    "intent": "payment_methods",
+    "text": "What are the available payment methods?"
+  },
+  {
+    "intent": "payment_methods",
+    "text": "I'd like to know the payment options you offer."
+  },
+  {
+    "intent": "payment_methods",
+    "text": "How can I settle my bill with you?"
+  },
+  {
+    "intent": "payment_methods",
+    "text": "Do you accept credit cards for payment?"
+  },
+  {
+    "intent": "payment_methods",
+    "text": "What credit cards are accepted for transactions?"
+  },
+  {
+    "intent": "payment_methods",
+    "text": "Are debit cards a valid payment method?"
+  },
+  {
+    "intent": "payment_methods",
+    "text": "Can I make payments using my debit card?"
+  },
+  {
+    "intent": "payment_methods",
+    "text": "Do you allow payment through electronic funds transfer?"
+  },
+  {
+    "intent": "payment_methods",
+    "text": "How can I pay using bank transfer?"
+  },
+  {
+    "intent": "payment_methods",
+    "text": "Do you support online payment methods like PayPal?"
+  },
+  {
+    "intent": "payment_methods",
+    "text": "Can I use PayPal to make a payment?"
+  },
+  {
+    "intent": "payment_methods",
+    "text": "Is cash an accepted payment method?"
+  },
+  {
+    "intent": "payment_methods",
+    "text": "Can I pay with cash at your establishment?"
+  },
+  {
+    "intent": "payment_methods",
+    "text": "Do you offer payment through mobile wallets like Apple Pay or Google Pay?"
+  },
+  {
+    "intent": "payment_methods",
+    "text": "Can I use mobile wallets for transactions?"
+  },
+  {
+    "intent": "payment_methods",
+    "text": "What about contactless payments with NFC?"
+  },
+  {
+    "intent": "payment_methods",
+    "text": "Is it possible to make contactless payments?"
+  },
+  {
+    "intent": "payment_methods",
+    "text": "Do you have a payment app for your services?"
+  },
+  {
+    "intent": "payment_methods",
+    "text": "How can I download your payment app?"
+  },
+  {
+    "intent": "payment_methods",
+    "text": "Are there any restrictions on payment methods for online orders?"
+  },
+  {
+    "intent": "payment_methods",
+    "text": "Can I pay with cryptocurrency?"
+  },
+  {
+    "intent": "payment_methods",
+    "text": "Do you accept Bitcoin or other cryptocurrencies?"
+  },
+  {
+    "intent": "payment_methods",
+    "text": "How can I make a payment using cryptocurrency?"
+  },
+  {
+    "intent": "payment_methods",
+    "text": "What's the procedure for making payments through cryptocurrency?"
+  },
+  {
+    "intent": "payment_methods",
+    "text": "Is there an option for paying in installments or with a payment plan?"
+  },
+  {
+    "intent": "payment_methods",
+    "text": "Can I set up a payment plan for a purchase?"
+  },
+  {
+    "intent": "payment_methods",
+    "text": "Do you offer any discounts or rewards for specific payment methods?"
+  },
+  {
+    "intent": "payment_methods",
+    "text": "Are there any special offers for using certain payment options?"
+  },
+  {
+    "intent": "payment_methods",
+    "text": "What are the payment processing times?"
+  },
+  {
+    "intent": "payment_methods",
+    "text": "How long does it take for payments to be processed?"
+  },
+  {
+    "intent": "payment_methods",
+    "text": "Are there any additional fees for specific payment methods?"
+  },
+  {
+    "intent": "payment_methods",
+    "text": "Do I need to pay extra for using certain payment options?"
+  },
+  {
+    "intent": "payment_methods",
+    "text": "Can I split my payment between two different methods?"
+  },
+  {
+    "intent": "payment_methods",
+    "text": "Is it possible to use multiple payment methods for a single purchase?"
+  },
+  {
+    "intent": "payment_methods",
+    "text": "How do I make recurring payments for a subscription service?"
+  },
+  {
+    "intent": "payment_methods",
+    "text": "Can you explain how to set up recurring payments?"
+  },
+  {
+    "intent": "payment_methods",
+    "text": "Do you provide invoices for payments?"
+  },
+  {
+    "intent": "payment_methods",
+    "text": "How can I request an invoice for my payment?"
+  },
+  {
+    "intent": "payment_methods",
+    "text": "What's the process for making payments over the phone?"
+  },
+  {
+    "intent": "payment_methods",
+    "text": "Can I pay for my order via phone?"
+  },
+  {
+    "intent": "payment_methods",
+    "text": "How can I pay for services rendered remotely?"
+  },
+  {
+    "intent": "payment_methods",
+    "text": "Can I make remote payments for your services?"
+  },
+  {
+    "intent": "payment_methods",
+    "text": "What are the security measures for online payments?"
+  },
+  {
+    "intent": "payment_methods",
+    "text": "How do you ensure the safety of online transactions?"
+  },
+  {
+    "intent": "payment_methods",
+    "text": "Can I save my payment details for future transactions?"
+  },
+  {
+    "intent": "payment_methods",
+    "text": "Is it possible to store my payment information for convenience?"
+  },
+  {
+    "intent": "payment_methods",
+    "text": "How can I cancel a payment or request a refund?"
+  },
+  {
+    "intent": "payment_methods",
+    "text": "What's the process for refunding a payment?"
+  },
+  {
+    "intent": "payment_methods",
+    "text": "Can I change my payment method after making a purchase?"
+  },
+  {
+    "intent": "payment_methods",
+    "text": "Is it possible to switch payment methods for an order?"
+  },
+  {
+    "intent": "payment_methods",
+    "text": "How can I view my payment history or transaction details?"
+  },
+  {
+    "intent": "payment_methods",
+    "text": "Where can I find my payment history and receipts?"
+  },
+  {
+    "intent": "payment_methods",
+    "text": "Can you guide me on how to make international payments?"
+  },
+  {
+    "intent": "payment_methods",
+    "text": "What's the process for making payments for international orders?"
+  },
+  {
+    "intent": "payment_methods",
+    "text": "Do you accept payment in different currencies?"
+  },
+  {
+    "intent": "payment_methods",
+    "text": "How can I pay with a foreign currency?"
+  },
+  {
+    "intent": "payment_methods",
+    "text": "Can I make payments through a direct bank transfer?"
+  },
+  {
+    "intent": "payment_methods",
+    "text": "How do I initiate a direct bank payment?"
   }
 ]
