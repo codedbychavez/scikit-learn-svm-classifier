@@ -1,0 +1,78 @@
+[
+    {
+        "intent": "goodbye",
+        "utterance": "later gater"
+    },
+    {
+        "intent": "goodbye",
+        "utterance": "goodbye"
+    },
+    {
+        "intent": "goodbye",
+        "utterance": "bye"
+    },
+    {
+        "intent": "goodbye",
+        "utterance": "see yah"
+    },
+    {
+        "intent": "get_weather_in_location",
+        "utterance": "get me some weather data"
+    },
+    {
+        "intent": "get_weather_in_location",
+        "utterance": "will it rain?"
+    },
+    {
+        "intent": "get_weather_in_location",
+        "utterance": "I wanna know if its snowing"
+    },
+    {
+        "intent": "get_weather_in_location",
+        "utterance": "can you tell me about the weather"
+    },
+    {
+        "intent": "get_weather_in_location",
+        "utterance": "tell me about the weather"
+    },
+    {
+        "intent": "get_weather_in_location",
+        "utterance": "is it raining right now"
+    },
+    {
+        "intent": "get_weather_in_location",
+        "utterance": "what is the weather in grance"
+    },
+    {
+        "intent": "greeting",
+        "utterance": "sup"
+    },
+    {
+        "intent": "greeting",
+        "utterance": "you "
+    },
+    {
+        "intent": "greeting",
+        "utterance": "heyyy"
+    },
+    {
+        "intent": "greeting",
+        "utterance": "hello joe"
+    },
+    {
+        "intent": "greeting",
+        "utterance": "hii"
+    },
+    {
+        "intent": "greeting",
+        "utterance": "whats up"
+    },
+    {
+        "intent": "greeting",
+        "utterance": "how are you"
+    },
+    {
+        "intent": "greeting",
+        "utterance": "hello"
+    }
+]
