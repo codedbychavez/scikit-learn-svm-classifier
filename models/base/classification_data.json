@@ -1,0 +1,740 @@
+[
+  {
+    "intent": "goodbye",
+    "text": "Goodbye! Have a great day."
+  },
+  {
+    "intent": "goodbye",
+    "text": "Farewell, take care!"
+  },
+  {
+    "intent": "goodbye",
+    "text": "See you later!"
+  },
+  {
+    "intent": "goodbye",
+    "text": "It was nice talking to you. Goodbye!"
+  },
+  {
+    "intent": "goodbye",
+    "text": "Until we meet again."
+  },
+  {
+    "intent": "goodbye",
+    "text": "Goodbye, and best wishes."
+  },
+  {
+    "intent": "goodbye",
+    "text": "Bye for now!"
+  },
+  {
+    "intent": "goodbye",
+    "text": "Take it easy and goodbye!"
+  },
+  {
+    "intent": "goodbye",
+    "text": "Wishing you a wonderful day. Goodbye!"
+  },
+  {
+    "intent": "goodbye",
+    "text": "Adieu, my friend."
+  },
+  {
+    "intent": "goodbye",
+    "text": "Till next time!"
+  },
+  {
+    "intent": "goodbye",
+    "text": "Catch you on the flip side. Goodbye!"
+  },
+  {
+    "intent": "goodbye",
+    "text": "Goodbye and stay safe."
+  },
+  {
+    "intent": "goodbye",
+    "text": "Fond farewell to you!"
+  },
+  {
+    "intent": "goodbye",
+    "text": "See you soon, take care!"
+  },
+  {
+    "intent": "goodbye",
+    "text": "It's been a pleasure. Goodbye!"
+  },
+  {
+    "intent": "goodbye",
+    "text": "Goodbye, my dear friend."
+  },
+  {
+    "intent": "goodbye",
+    "text": "Wishing you all the best. Goodbye!"
+  },
+  {
+    "intent": "goodbye",
+    "text": "Until next time, farewell!"
+  },
+  {
+    "intent": "goodbye",
+    "text": "Goodbye, and may happiness follow you."
+  },
+  {
+    "intent": "goodbye",
+    "text": "Take care of yourself. Goodbye!"
+  },
+  {
+    "intent": "goodbye",
+    "text": "Saying goodbye with a smile."
+  },
+  {
+    "intent": "goodbye",
+    "text": "Goodbye, see you soon!"
+  },
+  {
+    "intent": "goodbye",
+    "text": "May your day be filled with joy. Goodbye!"
+  },
+  {
+    "intent": "goodbye",
+    "text": "Farewell, my friend. Until next time!"
+  },
+  {
+    "intent": "goodbye",
+    "text": "Goodbye, and take it easy."
+  },
+  {
+    "intent": "goodbye",
+    "text": "Parting is such sweet sorrow. Goodbye!"
+  },
+  {
+    "intent": "goodbye",
+    "text": "See you down the road. Goodbye!"
+  },
+  {
+    "intent": "goodbye",
+    "text": "Saying farewell with a warm heart."
+  },
+  {
+    "intent": "goodbye",
+    "text": "Goodbye, and may success be with you."
+  },
+  {
+    "intent": "goodbye",
+    "text": "Wishing you a fond adieu."
+  },
+  {
+    "intent": "goodbye",
+    "text": "Take care and goodbye!"
+  },
+  {
+    "intent": "goodbye",
+    "text": "Goodbye, until our paths cross again."
+  },
+  {
+    "intent": "goodbye",
+    "text": "May the future be bright for you. Goodbye!"
+  },
+  {
+    "intent": "goodbye",
+    "text": "Farewell, and may good fortune smile upon you."
+  },
+  {
+    "intent": "goodbye",
+    "text": "Saying goodbye with a hopeful heart."
+  },
+  {
+    "intent": "goodbye",
+    "text": "Goodbye, and may the sun shine on your path."
+  },
+  {
+    "intent": "goodbye",
+    "text": "Wishing you a wonderful farewell."
+  },
+  {
+    "intent": "goodbye",
+    "text": "Take care, and until we meet again."
+  },
+  {
+    "intent": "goodbye",
+    "text": "Goodbye, and may laughter follow you."
+  },
+  {
+    "intent": "goodbye",
+    "text": "Farewell, my friend. Safe travels!"
+  },
+  {
+    "intent": "goodbye",
+    "text": "Goodbye, and may your dreams come true."
+  },
+  {
+    "intent": "goodbye",
+    "text": "Saying goodbye with gratitude."
+  },
+  {
+    "intent": "goodbye",
+    "text": "Goodbye, and keep your spirits high."
+  },
+  {
+    "intent": "goodbye",
+    "text": "Wishing you a heartfelt farewell."
+  },
+
+  {
+    "intent": "greeting",
+    "text": "Hello! How can I assist you today?"
+  },
+  {
+    "intent": "greeting",
+    "text": "Hi there! What brings you here?"
+  },
+  {
+    "intent": "greeting",
+    "text": "Good morning! What can I do for you?"
+  },
+  {
+    "intent": "greeting",
+    "text": "Hey! How's your day going so far?"
+  },
+  {
+    "intent": "greeting",
+    "text": "Greetings! How may I help you?"
+  },
+  {
+    "intent": "greeting",
+    "text": "Hi, it's nice to see you! What's on your mind?"
+  },
+  {
+    "intent": "greeting",
+    "text": "Hello there! What's going on?"
+  },
+  {
+    "intent": "greeting",
+    "text": "Good afternoon! How can I assist you?"
+  },
+  {
+    "intent": "greeting",
+    "text": "Hi, how's your day going? What can I do for you?"
+  },
+  {
+    "intent": "greeting",
+    "text": "Greetings! How may I be of service?"
+  },
+  {
+    "intent": "greeting",
+    "text": "Hey, it's great to see you! How can I help?"
+  },
+  {
+    "intent": "greeting",
+    "text": "Hello, my friend! What brings you here today?"
+  },
+  {
+    "intent": "greeting",
+    "text": "Hi there! What can I assist you with?"
+  },
+  {
+    "intent": "greeting",
+    "text": "Good morning! How can I make your day better?"
+  },
+  {
+    "intent": "greeting",
+    "text": "Hey, how's everything going? How can I assist you?"
+  },
+  {
+    "intent": "greeting",
+    "text": "Greetings! How can I make your day brighter?"
+  },
+  {
+    "intent": "greeting",
+    "text": "Hello! What can I do for you today?"
+  },
+  {
+    "intent": "greeting",
+    "text": "Hi there! How can I be of help?"
+  },
+  {
+    "intent": "greeting",
+    "text": "Good afternoon! What can I assist you with?"
+  },
+  {
+    "intent": "greeting",
+    "text": "Hey, it's great to have you here! What's on your mind?"
+  },
+  {
+    "intent": "greeting",
+    "text": "Hello, my friend! How can I make your day better?"
+  },
+  {
+    "intent": "greeting",
+    "text": "Hi there! What brings you here today?"
+  },
+  {
+    "intent": "greeting",
+    "text": "Good morning! How can I make your day brighter?"
+  },
+  {
+    "intent": "greeting",
+    "text": "Hey, how's everything going? How can I assist you?"
+  },
+  {
+    "intent": "greeting",
+    "text": "Greetings! What can I do for you today?"
+  },
+  {
+    "intent": "greeting",
+    "text": "Hello! How can I be of help?"
+  },
+  {
+    "intent": "greeting",
+    "text": "Hi there! What can I do for you?"
+  },
+  {
+    "intent": "greeting",
+    "text": "Good afternoon! How's your day going so far?"
+  },
+  {
+    "intent": "greeting",
+    "text": "Hey! How may I help you today?"
+  },
+  {
+    "intent": "greeting",
+    "text": "Hello there! What's going on?"
+  },
+  {
+    "intent": "greeting",
+    "text": "Good morning! How can I assist you?"
+  },
+  {
+    "intent": "greeting",
+    "text": "Hi, how's your day going? What can I do for you?"
+  },
+  {
+    "intent": "greeting",
+    "text": "Greetings! How may I be of service?"
+  },
+  {
+    "intent": "greeting",
+    "text": "Hey, it's great to see you! How can I help?"
+  },
+  {
+    "intent": "greeting",
+    "text": "Hello, my friend! What brings you here today?"
+  },
+  {
+    "intent": "greeting",
+    "text": "Hi there! What can I assist you with?"
+  },
+  {
+    "intent": "greeting",
+    "text": "Good morning! How can I make your day better?"
+  },
+  {
+    "intent": "greeting",
+    "text": "Hey, how's everything going? How can I assist you?"
+  },
+  {
+    "intent": "greeting",
+    "text": "Greetings! How can I make your day brighter?"
+  },
+
+  {
+    "intent": "business_hours",
+    "text": "Could you let me know when you'll be open tomorrow?"
+  },
+  {
+    "intent": "business_hours",
+    "text": "What time do you open for business tomorrow?"
+  },
+  {
+    "intent": "business_hours",
+    "text": "When does your business open up shop on weekdays?"
+  },
+  {
+    "intent": "business_hours",
+    "text": "I need to find out your opening hours for tomorrow, please."
+  },
+  {
+    "intent": "business_hours",
+    "text": "Tell me your business's opening hours for the weekend."
+  },
+  {
+    "intent": "business_hours",
+    "text": "When can I visit your store tomorrow?"
+  },
+  {
+    "intent": "business_hours",
+    "text": "I'd like to know your business hours for Monday."
+  },
+  {
+    "intent": "business_hours",
+    "text": "What are your hours of operation for Saturday?"
+  },
+  {
+    "intent": "business_hours",
+    "text": "When should I come by on Sunday?"
+  },
+  {
+    "intent": "business_hours",
+    "text": "Can you provide me with your weekend hours?"
+  },
+  {
+    "intent": "business_hours",
+    "text": "Tell me when your business is closed on weekdays."
+  },
+  {
+    "intent": "business_hours",
+    "text": "What time does your business usually close?"
+  },
+  {
+    "intent": "business_hours",
+    "text": "When do you shut your doors on weekends?"
+  },
+  {
+    "intent": "business_hours",
+    "text": "I'd like to know your closing hours for tomorrow."
+  },
+  {
+    "intent": "business_hours",
+    "text": "When is your last call on Fridays?"
+  },
+  {
+    "intent": "business_hours",
+    "text": "When do you end your workday on Saturdays?"
+  },
+  {
+    "intent": "business_hours",
+    "text": "Tell me the time you close up shop on Sunday."
+  },
+  {
+    "intent": "business_hours",
+    "text": "Is your business open or closed right now?"
+  },
+  {
+    "intent": "business_hours",
+    "text": "What's your current business status? Open or closed?"
+  },
+  {
+    "intent": "business_hours",
+    "text": "Are you guys open today, or is it a holiday?"
+  },
+  {
+    "intent": "business_hours",
+    "text": "Do you have special hours for holidays?"
+  },
+  {
+    "intent": "business_hours",
+    "text": "What's your business's holiday schedule?"
+  },
+  {
+    "intent": "business_hours",
+    "text": "Are you open during the holidays?"
+  },
+  {
+    "intent": "business_hours",
+    "text": "Tell me if you have any special hours for Christmas."
+  },
+  {
+    "intent": "business_hours",
+    "text": "What's your New Year's Eve closing time?"
+  },
+  {
+    "intent": "business_hours",
+    "text": "When do you open on Black Friday?"
+  },
+  {
+    "intent": "business_hours",
+    "text": "What are your hours on Thanksgiving?"
+  },
+  {
+    "intent": "business_hours",
+    "text": "Can you provide me with your holiday hours?"
+  },
+  {
+    "intent": "business_hours",
+    "text": "I want to know your business's holiday operating hours."
+  },
+  {
+    "intent": "business_hours",
+    "text": "When do you open for the season?"
+  },
+  {
+    "intent": "business_hours",
+    "text": "What's the opening time for your summer hours?"
+  },
+  {
+    "intent": "business_hours",
+    "text": "Can you tell me your summer season hours?"
+  },
+  {
+    "intent": "business_hours",
+    "text": "When does your business switch to winter hours?"
+  },
+  {
+    "intent": "business_hours",
+    "text": "Tell me your winter schedule."
+  },
+  {
+    "intent": "business_hours",
+    "text": "What are your hours for the spring season?"
+  },
+  {
+    "intent": "business_hours",
+    "text": "When is your business closed for maintenance?"
+  },
+  {
+    "intent": "business_hours",
+    "text": "Do you have any scheduled closures for renovations?"
+  },
+  {
+    "intent": "business_hours",
+    "text": "When will you reopen after your renovation?"
+  },
+  {
+    "intent": "business_hours",
+    "text": "Tell me when you're taking a break for maintenance."
+  },
+  {
+    "intent": "business_hours",
+    "text": "What are your hours of operation during the pandemic?"
+  },
+  {
+    "intent": "business_hours",
+    "text": "Do you have any special hours due to COVID-19?"
+  },
+  {
+    "intent": "business_hours",
+    "text": "When can I visit during these pandemic times?"
+  },
+  {
+    "intent": "business_hours",
+    "text": "What are your COVID-19 restrictions and hours?"
+  },
+  {
+    "intent": "business_hours",
+    "text": "Can you tell me about your weekend availability?"
+  },
+  {
+    "intent": "business_hours",
+    "text": "What time do you open on weekends?"
+  },
+  {
+    "intent": "business_hours",
+    "text": "When are your weekend hours?"
+  },
+  {
+    "intent": "business_hours",
+    "text": "Tell me when you close on Sundays."
+  },
+  {
+    "intent": "business_hours",
+    "text": "What are your Sunday business hours?"
+  },
+  {
+    "intent": "business_hours",
+    "text": "When do you open on Mondays?"
+  },
+  {
+    "intent": "business_hours",
+    "text": "I'd like to know your Monday hours."
+  },
+  {
+    "intent": "business_hours",
+    "text": "When does your business open on Wednesdays?"
+  },
+  {
+    "intent": "business_hours",
+    "text": "Can you provide me with your Wednesday hours?"
+  },
+  {
+    "intent": "business_hours",
+    "text": "What are your business hours for Thursdays?"
+  },
+  {
+    "intent": "business_hours",
+    "text": "Tell me your Thursday opening hours."
+  },
+  {
+    "intent": "business_hours",
+    "text": "When is your last call on Tuesdays?"
+  },
+  {
+    "intent": "business_hours",
+    "text": "When do you shut down on Thursdays?"
+  },
+  {
+    "intent": "business_hours",
+    "text": "Can you let me know your Saturday closing time?"
+  },
+  {
+    "intent": "business_hours",
+    "text": "What are your hours for the upcoming Saturday?"
+  },
+  {
+    "intent": "business_hours",
+    "text": "When do you open on the next Friday?"
+  },
+  {
+    "intent": "business_hours",
+    "text": "I'd like to schedule a visit for next Tuesday."
+  },
+  {
+    "intent": "business_hours",
+    "text": "Can you tell me your hours for the following Monday?"
+  },
+  {
+    "intent": "business_hours",
+    "text": "When does your business open for the weekend?"
+  },
+  {
+    "intent": "business_hours",
+    "text": "Tell me when you close up shop on the weekend."
+  },
+  {
+    "intent": "business_hours",
+    "text": "What are your weekend operating hours?"
+  },
+  {
+    "intent": "business_hours",
+    "text": "When can I visit you on the weekend?"
+  },
+  {
+    "intent": "business_hours",
+    "text": "What time does your business close on Sundays?"
+  },
+  {
+    "intent": "business_hours",
+    "text": "When are your hours of operation on Sundays?"
+  },
+  {
+    "intent": "business_hours",
+    "text": "Can you give me your business hours for Saturdays?"
+  },
+  {
+    "intent": "business_hours",
+    "text": "Tell me your Saturday opening hours."
+  },
+  {
+    "intent": "business_hours",
+    "text": "When do you open on the upcoming Monday?"
+  },
+  {
+    "intent": "business_hours",
+    "text": "What are your Monday hours of operation?"
+  },
+  {
+    "intent": "business_hours",
+    "text": "I'd like to know your Wednesday business hours."
+  },
+  {
+    "intent": "business_hours",
+    "text": "When do you close on the next Thursday?"
+  },
+  {
+    "intent": "business_hours",
+    "text": "Tell me your Thursday hours of operation."
+  },
+  {
+    "intent": "business_hours",
+    "text": "What time does your business open on Fridays?"
+  },
+  {
+    "intent": "business_hours",
+    "text": "When are your Friday business hours?"
+  },
+  {
+    "intent": "business_hours",
+    "text": "Can you provide me with your Tuesday hours?"
+  },
+  {
+    "intent": "business_hours",
+    "text": "Tell me your Tuesday opening hours."
+  },
+  {
+    "intent": "business_hours",
+    "text": "When is your last call on Wednesdays?"
+  },
+  {
+    "intent": "business_hours",
+    "text": "When do you shut down on Fridays?"
+  },
+  {
+    "intent": "business_hours",
+    "text": "Can you let me know your Sunday closing time?"
+  },
+  {
+    "intent": "business_hours",
+    "text": "What are your hours for the upcoming Sunday?"
+  },
+  {
+    "intent": "business_hours",
+    "text": "When do you open on the next Saturday?"
+  },
+  {
+    "intent": "business_hours",
+    "text": "I'd like to schedule a visit for next Sunday."
+  },
+  {
+    "intent": "business_hours",
+    "text": "Tell me your hours for the following Sunday."
+  },
+  {
+    "intent": "business_hours",
+    "text": "When does your business open for the weekend?"
+  },
+  {
+    "intent": "business_hours",
+    "text": "What are your hours for the weekend?"
+  },
+  {
+    "intent": "business_hours",
+    "text": "When can I visit you on the weekend?"
+  },
+  {
+    "intent": "business_hours",
+    "text": "What time does your business close on Saturdays?"
+  },
+  {
+    "intent": "business_hours",
+    "text": "When are your hours of operation on Saturdays?"
+  },
+  {
+    "intent": "business_hours",
+    "text": "Can you give me your business hours for Sundays?"
+  },
+  {
+    "intent": "business_hours",
+    "text": "Tell me your Sunday opening hours."
+  },
+  {
+    "intent": "business_hours",
+    "text": "When do you open on the upcoming Tuesday?"
+  },
+  {
+    "intent": "business_hours",
+    "text": "What are your Tuesday hours of operation?"
+  },
+  {
+    "intent": "business_hours",
+    "text": "I'd like to know your Thursday business hours."
+  },
+  {
+    "intent": "business_hours",
+    "text": "When do you close on the next Monday?"
+  },
+  {
+    "intent": "business_hours",
+    "text": "Tell me your Monday hours of operation."
+  },
+  {
+    "intent": "business_hours",
+    "text": "What time does your business open on Thursdays?"
+  },
+  {
+    "intent": "business_hours",
+    "text": "When are your Thursday business hours?"
+  },
+  {
+    "intent": "business_hours",
+    "text": "Can you provide me with your Friday hours?"
+  }
+]
