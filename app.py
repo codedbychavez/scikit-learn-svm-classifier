@@ -6,7 +6,7 @@ from sklearn.feature_extraction.text import TfidfTransformer
 import pickle5 as pickle
 
 def train_classifier():
-    df = pd.read_json('./classifier/classification_data.json')
+    df = pd.read_json('./models/base/classification_data.json')
     X_train, X_test, y_train, y_test = train_test_split(df['text'], df['intent'], random_state=0)
 
     count_vect = CountVectorizer()
@@ -17,20 +17,43 @@ def train_classifier():
     model = LinearSVC(dual="auto").fit(X_train_tfidf, y_train)
 
     # Save the vectorizer 
-    vec_file = './classifier/vectorizer.pickle'
+    vec_file = './models/base/vectorizer.pickle'
     pickle.dump(count_vect, open(vec_file, 'wb'))
 
     # Save the model
-    mod_file = './classifier/classifier.model'
+    mod_file = './models/base/classifier/classifier.model'
     pickle.dump(model, open(mod_file, 'wb'))
 
-def classify_text(text):
+
+def classify_text_base(text):
     # Load the vectorizer
-    vec_file = './classifier/vectorizer.pickle'
+    vec_file = './models/base/classifier/vectorizer.pickle'
     count_vect = pickle.load(open(vec_file, 'rb'))
 
     # Load the model
-    mod_file = './classifier/classifier.model'
+    mod_file = './models/base/classifier/classifier.model'
+    model = pickle.load(open(mod_file, 'rb'))
+
+    # Classify the text
+    text_counts = count_vect.transform([text])
+    predicted = model.predict(text_counts)
+    scores = model.decision_function(text_counts)
+
+    result = {
+        'intent': predicted[0],
+        'confidence': max(scores[0]),
+        'text': text
+    }
+
+    return result
+
+def classify_text_pro(text):
+    # Load the vectorizer
+    vec_file = './models/pro/classifier/vectorizer.pickle'
+    count_vect = pickle.load(open(vec_file, 'rb'))
+
+    # Load the model
+    mod_file = './models/pro/classifier/classifier.model'
     model = pickle.load(open(mod_file, 'rb'))
 
     # Classify the text

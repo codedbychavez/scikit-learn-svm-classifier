@@ -1,8 +1,8 @@
-from app import train_classifier, classify_text
+from app import train_classifier, classify_text_base, classify_text_pro
 
 def test_query():
     text = input("Hi I'm a chatbot. Lets talk: ")
-    result = classify_text(text)
+    result = classify_text_base(text)
     print(result)
 
 def run_app():
