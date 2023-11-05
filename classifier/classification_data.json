@@ -1,78 +1,78 @@
 [
     {
         "intent": "goodbye",
-        "utterance": "later gater"
+        "text": "later gater"
     },
     {
         "intent": "goodbye",
-        "utterance": "goodbye"
+        "text": "goodbye"
     },
     {
         "intent": "goodbye",
-        "utterance": "bye"
+        "text": "bye"
     },
     {
         "intent": "goodbye",
-        "utterance": "see yah"
+        "text": "see yah"
     },
     {
         "intent": "get_weather_in_location",
-        "utterance": "get me some weather data"
+        "text": "get me some weather data"
     },
     {
         "intent": "get_weather_in_location",
-        "utterance": "will it rain?"
+        "text": "will it rain?"
     },
     {
         "intent": "get_weather_in_location",
-        "utterance": "I wanna know if its snowing"
+        "text": "I wanna know if its snowing"
     },
     {
         "intent": "get_weather_in_location",
-        "utterance": "can you tell me about the weather"
+        "text": "can you tell me about the weather"
     },
     {
         "intent": "get_weather_in_location",
-        "utterance": "tell me about the weather"
+        "text": "tell me about the weather"
     },
     {
         "intent": "get_weather_in_location",
-        "utterance": "is it raining right now"
+        "text": "is it raining right now"
     },
     {
         "intent": "get_weather_in_location",
-        "utterance": "what is the weather in grance"
+        "text": "what is the weather in grance"
     },
     {
         "intent": "greeting",
-        "utterance": "sup"
+        "text": "sup"
     },
     {
         "intent": "greeting",
-        "utterance": "you "
+        "text": "you "
     },
     {
         "intent": "greeting",
-        "utterance": "heyyy"
+        "text": "heyyy"
     },
     {
         "intent": "greeting",
-        "utterance": "hello joe"
+        "text": "hello joe"
     },
     {
         "intent": "greeting",
-        "utterance": "hii"
+        "text": "hii"
     },
     {
         "intent": "greeting",
-        "utterance": "whats up"
+        "text": "whats up"
     },
     {
         "intent": "greeting",
-        "utterance": "how are you"
+        "text": "how are you"
     },
     {
         "intent": "greeting",
-        "utterance": "hello"
+        "text": "hello"
     }
 ]
